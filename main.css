@@ -1,0 +1,79 @@
+html,body {
+        background: #1d2026;
+        color:white;
+        margin:0;
+        padding:0;
+}
+
+h1 {
+        font-family: Iceland;
+        color:white;
+        text-align: center;
+        color: grey;
+        font-size: 36px;
+}
+h2 {
+        font-family: Iceland;
+        padding-left: 15%;
+        font-size: 18px;
+        color:grey;
+}
+
+p {
+        color: white;
+//      font-family: "Rockwell", Helvetica, Arial, sans-serif;
+        font-family: Iceland;
+        font-size: 20px;
+        line-height: 1.5;
+        margin: 0 auto;
+        max-width: 800px;
+        padding-left: 13%;
+        padding-right: 13%;
+}
+
+li {
+        color: white;
+        font-family: Iceland;
+//      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 20px;
+        line-height: 1.5;
+        margin: 0 auto;
+        max-width: 800px;
+        padding 13% 13%;
+}
+a {
+        color: white;
+}
+.navbar {
+        overflow: hidden;
+//      width: 250px;
+//      margin-left: auto;
+//      margin-right: auto;
+        text-align: center;
+        margin: 0;
+        line-height: 34px;
+        background: black;
+}
+.navbar a {
+        font-family: Iceland;
+//      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 14.5px;
+        line-height: 1.5;
+        color: white;
+        padding: 14px 16px;
+        text-align: center;
+}
+#logoImage {
+        position: absolute;
+        left: 20px;
+        height: 100px;
+        width: 100px;
+
+}
+.skills {
+        font-size: 6px;
+}
+.skills p {
+        font-size: 18px;
+}
+
